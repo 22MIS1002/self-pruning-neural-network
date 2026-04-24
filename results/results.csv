@@ -1,0 +1,5 @@
+lambda,test_accuracy,sparsity,plot,model_path
+0.5,43.11,62.475970436801724,results\gate_distribution_lambda_0.5.png,results\self_pruning_lambda_0.5.pt
+1.0,41.2,69.70918444608965,results\gate_distribution_lambda_1.0.png,results\self_pruning_lambda_1.0.pt
+2.0,42.05,79.05891922701575,results\gate_distribution_lambda_2.0.png,results\self_pruning_lambda_2.0.pt
+5.0,42.71,91.43903431652981,results\gate_distribution_lambda_5.0.png,results\self_pruning_lambda_5.0.pt
