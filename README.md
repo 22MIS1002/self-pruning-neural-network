@@ -133,11 +133,10 @@ This confirms:
 
 ## 📊 Result Visualizations
 
-### 🔹 Training Logs
-👉 *(Paste your screenshot here)*
+![Overall Workflow](overall%20flow.png)
 
 ### 🔹 Gate Distribution
-👉 *(Add your images below)*
+
 
 ![Gate](results/gate_distribution_lambda_0.5.png)
 ![Gate](results/gate_distribution_lambda_1.0.png)
@@ -210,7 +209,6 @@ This is useful for:
 
 ## 👤 Author
 
-**Karbari Divya<img width="1536" height="1024" alt="c1526264-898e-4148-8f71-952cf5c92ac2" src="https://github.com/user-attachments/assets/304af391-77e1-452f-abd5-f76f019001a6" />
-**
+**Karbari Divya**
 
 ---
